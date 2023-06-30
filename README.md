@@ -1,7 +1,7 @@
 # Scoring a Bowling Game
 The game consists of 10 frames. A frame is composed of one or two ball throws with 10 pins standing at frame initialization.
 ## App
-![rotator](assets/image/score.png)
+![bowling](assets/image/score.png)
 ### Built with  
 - HTML
 - CSS
@@ -15,7 +15,7 @@ knowlegde about:
 ## Clone project
 Get a local copy of this project by following the steps below:
 - clone this repository with `https://github.com/Nathanael-Lontsi/scorebowling`
-- Move to the project directory by typing the following: cd JavaScript and cd grid-rotator in your terminal.
+- Move to the project directory by typing the following: cd JavaScript and cd scorebowling in your terminal.
 ## Steps
 - $ git clone `https://github.com/Nathanael-Lontsi/scorebowling`
 - $ `cd scorebowling`

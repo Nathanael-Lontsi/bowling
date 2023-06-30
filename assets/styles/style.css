@@ -15,8 +15,8 @@ h1 {
 }
 
 .loading {
-  color: transparent;
-  margin: 0 0 20px;
+  margin: 10px auto;
+  visibility: hidden;
 }
 
 .loading.active {
@@ -37,7 +37,7 @@ table {
   border: 1px solid #d2691e;
   display: grid;
   gap: 5px;
-  grid-template-columns: repeat(10, 1fr);
+  grid-template-columns: repeat(11, 1fr);
   padding: 10px;
   width: 100%;
 }
@@ -55,6 +55,10 @@ table {
   color: #fff;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
+}
+
+.total {
+  font-size: 12px;
 }
 
 .container {
