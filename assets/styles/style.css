@@ -79,7 +79,7 @@ table {
   color: #ddd;
   cursor: pointer;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: 600;
   margin-top: 40px;
   padding: 15px 20px;
   text-align: center;
@@ -97,7 +97,7 @@ table {
   color: #ddd;
   cursor: pointer;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: 600  ;
   margin-top: 40px;
   padding: 15px 20px;
   text-align: center;
